@@ -5,7 +5,7 @@
  * Colabora en el patron Fachada.
  * @since: prototipo2.2
  * @source: UsuariosDAO.java 
- * @version: 2.2 - 04/11/1999 
+ * @version: 2.2 - 04/06/2018 
  * @author: Adrian Sanchez
  */
 
